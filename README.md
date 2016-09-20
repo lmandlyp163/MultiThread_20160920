@@ -1,2 +1,2 @@
-# MultiThread_20160920
-MultiThread 多线程学习
+# MultiThread
+java多线程基础学习
